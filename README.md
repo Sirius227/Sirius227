@@ -1,6 +1,7 @@
 ### Hi there, I'm Fatih 👋
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Sirius227&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirius227&theme=tokyonight)
 
 Here are some ideas to get you started:
 
